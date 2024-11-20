@@ -1,3 +1,4 @@
 # C/C++Compiler
-This repo  will focus on how to build compiler for both c and c++ programming language. 
+This repo  will focus on building a compiler for both c and C++ programming languages. 
+!!! STILL UNDER DEVELOPMENT !!!
 
